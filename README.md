@@ -1,6 +1,3 @@
-# GAN_On_MNIST
-# GAN_On_MNIST
-
 # MNIST Generative Adversarial Network (GAN) Training
 
 ## Introduction to Generative Adversarial Networks (GANs)
